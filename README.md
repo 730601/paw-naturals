@@ -1,6 +1,6 @@
 # Paw Naturals - Pet Care E-commerce Platform
 
-Paw Naturals is a modern e-commerce platform dedicated to providing high-quality, natural products for pets. The platform features a responsive design, intuitive user interface, and seamless integration with pet-related APIs.
+Paw Naturals is a modern e-commerce platform dedicated to providing high-quality, natural breeds for owners. The platform features a responsive design, intuitive user interface, and seamless integration with pet-related APIs.
 
 ## Features
 
